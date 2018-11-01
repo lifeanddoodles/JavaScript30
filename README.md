@@ -3,6 +3,7 @@ Solutions to @wesbos's JavaScript30 challenge
 > Build 30 things in 30 days with 30 tutorials.
 
 ## A 30-day Vanilla JavaScript coding challenge
+
 * No Frameworks
 * No Compilers
 * No Libraries
