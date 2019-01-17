@@ -1,11 +1,11 @@
 # 02 - JS and CSS Clock
 
 ## Requirements
-* Add .playing class that triggers animation for the keys':
-  * Size
-  * Border
-  * Shadow
-* Play associated sound
+* Takes current time (from JavaScript)
+* Update the hands for the following on an "analog" clock:
+  * Hours
+  * Minutes
+  * Seconds
 
 - - - -
 
