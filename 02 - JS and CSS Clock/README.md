@@ -1,4 +1,4 @@
-# 01 - JavaScript Drum Kit
+# 02 - JS and CSS Clock
 
 ## Requirements
 * Add .playing class that triggers animation for the keys':
@@ -97,4 +97,4 @@ function setDate() {
 setInterval(setDate,1000);
 ```
 
-Once loop is completed transition goes backwards.
+Note: Once loop is completed transition goes backwards since the count goes back to 0 and the animation is based on it, so we need to find a solution for that, or just remove the CSS animation in the meantime.
